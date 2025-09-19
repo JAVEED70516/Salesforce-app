@@ -6,7 +6,7 @@ This project focuses on automating the workflow for employee expense request app
 
 Problem Statement
 
-Currently, expense request approvals are manual and inefficient. The goal of this project is to automate the end-to-end approval process for employee expense requests in Salesforce. Requests must be routed for manager approval based on defined thresholds, ensuring compliance with business rules.
+Currently, employee expense request approvals are handled manually, leading to delays, errors, and lack of compliance with company policies. Managers must review expenses without automated checks for thresholds or business rules, which often results in inconsistent approvals and reduced process efficiency.
 
 Team Expertise
 
